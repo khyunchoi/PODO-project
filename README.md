@@ -2,7 +2,7 @@
 주니어 개발자들을 위한 협업툴 `PODO`!  
 생애 첫 개발 프로젝트를 포도와 함께 하세요 😉
 
-</br>
+
 
 ![마스코트](README.assets/마스코트-1637077278149.png)  
 
@@ -11,21 +11,6 @@
 >초등학교 첫 여름방학, 포도가 그려진 종이 한 장에 한 알 한 알 스티커를 붙이며 설레는 마음으로 숙제를 제출하던 그 순간을 떠올렸습니다.
 >이제는 혼자가 아닌 주니어 개발자들이 열매를 한 알 한 알 맺을 수 있도록 돕는 프로젝트 협업툴입니다.  
 
-</br>
-
-## 😸 Member
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/woosteelz"><img src="https://avatars.githubusercontent.com/u/48507475?v=4" width="100px;" alt=""/><br /><sub><b>WOOCHEOL</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yeongsummer"><img src="https://avatars.githubusercontent.com/u/87457128?v=4" width="100px;" alt=""/><br /><sub><b>YEONGHA</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/DongKyunJung"><img src="https://avatars.githubusercontent.com/u/87457171?v=4" width="100px;" alt=""/><br /><sub><b>DONGKYUN</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/khyunchoi"><img src="https://avatars.githubusercontent.com/u/77478732?v=4" width="100px;" alt=""/><br /><sub><b>GANGHYEON</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hongjungkimm"><img src="https://avatars.githubusercontent.com/u/87457152?v=4" width="100px;" alt=""/><br /><sub><b>HONGJUNG</b></sub></a><br /></td>
-  </tr>
-</table>  
-
-</br>
 
 ## 👨🏻‍🤝‍👨🏻 역할
 
@@ -45,7 +30,7 @@
 - 상세한 주석을 통해 코드의 이해도를 높입니다.
 - 정해진 Git branch 전략을 통해 협업의 일관성을 유지합니다.  
 
-</br>
+
 
 ## 🎨 스타일 가이드라인
 
@@ -59,15 +44,15 @@
 
 - **Color Palette**
 
-<img src="README.assets/colors.PNG" alt="colors"  />  
 
-</br>
+
+
 
 ## 💻 Tech Stack
 
 ![made_by_woosteelz](README.assets/made_by_woosteelz.jpg)  
 
-</br>
+
 
 ## 💡 주요 기능 목록
 
@@ -80,7 +65,7 @@
 - Summernote 라이브러리 기반 텍스트 편집 기능
 - Calendar 라이브러리 HTML Calendar 기반 일정 기능  
 
-</br>
+
 
 ## 📐 UI & ERD
 
@@ -96,7 +81,7 @@
 
 ![UI2](README.assets/UI2.png)  
 
-</br>
+
 
 ## 😘 프로젝트 마무리 소감
 
